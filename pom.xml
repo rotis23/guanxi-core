@@ -79,7 +79,7 @@
     <url>scm:git:git://github.com/guanxi/</url>
   </scm>
 
-  <repositories>
+<!--  <repositories>
     <repository>
       <id>source.uhi.ac.uk-repository</id>
       <name>UHI Maven 2.x Repository</name>
@@ -94,7 +94,7 @@
         <enabled>true</enabled>
       </snapshots>
     </repository>
-  </repositories>
+  </repositories>-->
 
   <reports>
     <report>maven-developer-activity-plugin</report>
